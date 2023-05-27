@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "64372ba12ceb1e998f816bb9"
+  },
+  "name": "DEL ART",
+  "adresse": "1 RUE OMAR",
+  "latitude": 11,
+  "longitude": 13,
+  "rank": 5,
+  "ouvert": "Ouvert",
+  "ferme": "Ferme",
+  "serie": "S1",
+  "zone": {
+    "$oid": "64371f1d65b144651ac67f43"
+  },
+  "specialite": {
+    "$oid": "6437230bbf4be91e8f0877aa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64372bf72ceb1e998f816bbc"
+  },
+  "name": "FEU DU BOIS",
+  "adresse": "13 RUE ANFA",
+  "latitude": 35,
+  "longitude": 23,
+  "rank": 7,
+  "ouvert": "Ouvert",
+  "ferme": "Ferme",
+  "serie": "S2",
+  "zone": {
+    "$oid": "64371f1d65b144651ac67f43"
+  },
+  "specialite": {
+    "$oid": "6437230bbf4be91e8f0877aa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64372c8f2ceb1e998f816bbf"
+  },
+  "name": "KING FOODS",
+  "adresse": "12 AVENUE MOHAMMED V",
+  "latitude": 88,
+  "longitude": 24,
+  "rank": 11,
+  "ouvert": "Ouvert",
+  "ferme": "Ferme",
+  "serie": "S9",
+  "zone": {
+    "$oid": "64371eba65b144651ac67f41"
+  },
+  "specialite": {
+    "$oid": "64372383bf4be91e8f0877b0"
+  },
+  "__v": 0
+}]
